@@ -1,2 +1,2 @@
 # Library-Console-Project
-Learning - OOP
+Learning and teaching - OOP
